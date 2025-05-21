@@ -16,7 +16,7 @@ const decrease=()=>{
 
   return (
     <>
-      <h1>Chai and React</h1>
+      <h1>Chai and React||Nikhil</h1>
       <h2>Frequency Counter{counter}</h2>
       <button onClick={increase}>Increase{counter}</button>
       <br />
